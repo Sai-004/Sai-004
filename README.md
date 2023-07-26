@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Srinivas</h1>
 <h3 align="center">A driven WebDeveloper forging ahead for unleashing Web Wizardry</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-004&label=Profile%20views&color=0e75b6&style=plastic" alt="sai-004" /> </p>
-
 - 🔭 I’m currently working on **Drone Controller**
 
 - 🌱 I’m currently learning **Django and ML**
