@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Sai-004?tab=repositories)
 
-- 📫 How to reach me **mssrinu004@gmail.com**
+- 📫 Reach me at **mssrinu004@gmail.com**
 
-- 📄 Know about my experiences [My Rèsumè](https://drive.google.com/file/d/1hKydrYFYhKkmmzhUZVIbIZyfqw5bodIB/view?usp=sharing)
+- 📄 Know about my experiences [My Rèsumè](https://drive.google.com/file/d/1GSKMv1ZntptyZs_kGjYvP-F5KygqjrT_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
