@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sai Srinivas</h1>
 <h3 align="center">A driven WebDeveloper forging ahead for unleashing Web Wizardry</h3>
 
-- 🔭 I’m currently working on **Drone Controller**
+- 🔭 I’m an upcoming intern at **Oracle**
 
-- 🌱 I’m currently learning **Django and ML**
+- 🌱 I’m currently learning **ML and Cyber Security**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Sai-004?tab=repositories)
 
