@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Srinivas</h1>
-<h3 align="center">A driven WebDeveloper forging ahead for unleashing Web Wizardry</h3>
+<h3 align="center">A passionate Software Engineer, venturing forth to unlock the realms of technological sorcery.</h3>
 
 - 🔭 I’m an upcoming intern at **Oracle**
 
